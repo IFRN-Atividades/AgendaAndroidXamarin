@@ -1,0 +1,4 @@
+Agenda.MainActivity, Agenda;md50f9c0de012f96181905ff96a728d3c20.MainActivity
+Agenda.MainActivity, Agenda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50f9c0de012f96181905ff96a728d3c20.MainActivity
+Agenda.MainActivity;md50f9c0de012f96181905ff96a728d3c20.MainActivity
+agenda.MainActivity;md50f9c0de012f96181905ff96a728d3c20.MainActivity
