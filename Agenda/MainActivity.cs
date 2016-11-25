@@ -171,9 +171,10 @@ namespace Agenda
 
             string t =  JsonConvert.SerializeObject(x);
             var httpClient = new HttpClient();
-            httpClient.BaseAddress = new Uri("http://10.21.0.137/20131011110029");
+            httpClient.BaseAddress = new Uri("http://10.21.0.137/");
+
             var content = new StringContent(t, Encoding.UTF8, "application/json");
-            await httpClient.PutAsync("/api/contato/" + x.Id, content);
+            await httpClient.PutAsync("20131011110029/api/contato/" + x.Id, content);
             CarregarLista();
 
         }

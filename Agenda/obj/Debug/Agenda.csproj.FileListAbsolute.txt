@@ -43,5 +43,6 @@ C:\Users\Isaac Medeiros\Desktop\AgendaAndroidXamarin\Agenda\obj\Debug\android\as
 C:\Users\Isaac Medeiros\Desktop\AgendaAndroidXamarin\Agenda\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\Isaac Medeiros\Desktop\AgendaAndroidXamarin\Agenda\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Isaac Medeiros\Desktop\AgendaAndroidXamarin\Agenda\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\AgendaAndroidXamarin\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
 C:\Users\Isaac Medeiros\Desktop\AgendaAndroidXamarin\Agenda\obj\Debug\Agenda.dll.mdb
 C:\Users\Isaac Medeiros\Desktop\AgendaAndroidXamarin\Agenda\bin\Debug\Agenda.dll.mdb
